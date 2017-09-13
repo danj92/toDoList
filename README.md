@@ -1,0 +1,1 @@
+In scss make background: url("../images/react.png");
